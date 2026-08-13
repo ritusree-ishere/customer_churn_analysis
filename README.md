@@ -39,7 +39,7 @@ Telco Customer Churn dataset containing **7,043 customer records** with informat
 
 #### **Dashboard**
 
-![Customer Churn Dashboard](screenshots/customer_churn_dashboard.png)
+<img width="1772" height="1039" alt="dashboard" src="https://github.com/user-attachments/assets/7548af8c-f583-404d-8655-3e624905484b" />
 
 #### **Report**
 
