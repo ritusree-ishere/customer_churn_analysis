@@ -43,7 +43,7 @@ Telco Customer Churn dataset containing **7,043 customer records** with informat
 
 #### **Report**
 
-[View / Download Project Report](./reports/Customer_Churn_Analysis_Report.pdf)
+[View / Download Project Report](reports/project_report.pdf)
 
 #### **Project Structure**
 
